@@ -9,7 +9,7 @@ Welcome to my academic portfolio for CEP146-NCC
 - Favorite Programming Language: Java
 
 ## Course Goals
-- [ ] Learn verion control with Git and Github
+- [ ] Learn version control with Git and Github
 - [ ] Complete all lab asessments
 - [ ] Build a professional portfolio
 - [ ] Coloborate on group projects
