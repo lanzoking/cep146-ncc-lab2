@@ -1,2 +1,18 @@
-# cep146-ncc-lab2
-Portfolio of  my work and projects for CEP146-NCC
+# My Course Portfolio
+
+Welcome to my academic portfolio for CEP146-NCC
+
+## About Me
+- Name: Dammado King
+- Program: Computer Programming (CPP)
+- Year: Winter 2026, Semester 1
+- Favorite Programming Language: Java
+
+## Course Goals
+- [ ] Learn verion control with Git and Github
+- [ ] Complete all lab asessments
+- [ ] Build a professional portfolio
+- [ ] Coloborate on group projects
+
+## Projects
+*This section will be updated as I complete the assignments*
