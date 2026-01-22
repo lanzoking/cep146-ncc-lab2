@@ -4,6 +4,7 @@ Welcome to my academic portfolio for CEP146-NCC
 
 ## About Me
 - Name: Dammado King
+- Email: ddking1@myseneca.ca
 - Program: Computer Programming (CPP)
 - Year: Winter 2026, Semester 1
 - Favorite Programming Language: Java
